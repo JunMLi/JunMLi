@@ -12,7 +12,7 @@ I'm a data enthusiast passionate about uncovering insights and building solution
 
 ## 💡 What I Do
 I specialize in:
-- **Data Analytics & Visualization** — From trend discovery to KPI reporting, I enjoy turning messy data into actionable plans for improvement.
+- **Data Analytics & Visualization** – From trend discovery to KPI reporting, I enjoy turning messy data into actionable plans for improvement.
 - **Database Management** – Experienced with SQL-based data mining, cleaning, and structuring for audits, compliance, and insight generation.
 - **Technical Tools & Coding** – Skilled in Python, R, and advanced Excel for modeling, forecasting, machine learning, and predictive analytics.
 - **Research & Reporting** – Published scientific research in multiple scientific journals.
